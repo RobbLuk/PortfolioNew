@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Robert Lukas is an Project Manager, Data Scientist, Data Engineer, Technician based in Germany, who loves learning new things and helping.',
   siteKeywords: 'Robert Lukas, Lukas, engineer, web developer, javascript, python, R, Data science',
-  siteUrl: 'https://robbluk.github.io/',
+  siteUrl: 'https://robbluk.github.io/PortfolioNew',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-251R6W3WR4',
   googleVerification: '',

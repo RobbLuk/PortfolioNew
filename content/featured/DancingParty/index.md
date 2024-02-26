@@ -3,7 +3,7 @@ date: '5'
 title: 'Dancing Party'
 cover: 'concert-2527495_1280.png'
 github: 'https://robbluk.github.io/dancing_party/'
-external: 'https://app.datacamp.com/learn/competitions/dance-party-songs'
+external: 'https://robbluk.github.io/dancing_party/'
 tech:
   - Python
 

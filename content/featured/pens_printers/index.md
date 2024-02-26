@@ -3,7 +3,7 @@ date: '3'
 title: 'Data Analysing Pens and Printers'
 cover: './stock-1863880_1280.png'
 github: 'https://robbluk.github.io/pens_printers/'
-external: 'https://datacamp.com/'
+external: 'https://robbluk.github.io/pens_printers/'
 tech:
   - Python
 
