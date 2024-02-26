@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://robbluk.github.io/sitemap.xml
+Sitemap: https://robbluk.github.io/sitemap-index.xml
 Host: https://robbluk.github.io
