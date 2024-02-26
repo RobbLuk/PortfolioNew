@@ -1,9 +1,8 @@
 module.exports = {
   siteTitle: 'Robert Philipp Lukas',
   siteDescription:
-    'Robert Lukas is an incoming Project Manager, based in Germany, who loves learning new things and helping.',
-  siteKeywords:
-    'Robert Lukas, Lukas, engineer, web developer, javascript, python, R, Data science',
+    'Robert Lukas is an Project Manager, Data Scientist, Data Engineer, Technician based in Germany, who loves learning new things and helping.',
+  siteKeywords: 'Robert Lukas, Lukas, engineer, web developer, javascript, python, R, Data science',
   siteUrl: 'https://robbluk.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-251R6W3WR4',
@@ -11,7 +10,7 @@ module.exports = {
   name: 'Robert Lukas',
   location: 'Munich, Germany',
   email: 'robert_lukas@outlook.de',
-  github: 'https://https://github.com/RobbLuk',
+  github: 'https://github.com/RobbLuk',
   twitterHandle: '@',
   socialMedia: [
     {
@@ -56,8 +55,6 @@ module.exports = {
     yellow: '#E5D283',
     Navy: '#213555',
     grey: 'F0F0F0',
-
-
   },
 
   srConfig: (delay = 200) => ({
