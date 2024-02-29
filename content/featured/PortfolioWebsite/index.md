@@ -14,4 +14,4 @@ In this self-directed study, my objective was to explore how to generate signifi
 
 Inspired by Programmer on [GitHub](https://github.com/adrianhajdin/portfolio_website).
 
-Visit my [PowerPoint Presentation](https://1drv.ms/p/s!AlylDCNPs_O-iSQzpEty-Ru9JoEY?e=ybJUso).
+View the [PowerPoint Presentation](https://1drv.ms/p/s!AlylDCNPs_O-iSQzpEty-Ru9JoEY?e=ybJUso).

@@ -11,4 +11,4 @@ showInProjects: true
 
 This is a code, if they can predict a member will not attend the class, they can make another space available.
 
-Certification on [Data Camp](https://www.datacamp.com/).
+Certification on [DataCamp](https://www.datacamp.com/).

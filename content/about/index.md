@@ -13,7 +13,7 @@ skills:
   - Data Science
   - Analytics
   - Sports
-  - Power-Yoga 
+  - Power-Yoga
   - Chess
 ---
 
@@ -23,6 +23,6 @@ I pride myself on being a resourceful and dedicated professional, guided by stro
 
 I earned my Bachelor's degree in Engineering and Management, with a specialization in Information Technology, from Munich University of Applied Sciences [Hochschule München, DE](https://www.hm.edu/). My academic journey culminated in a thesis titled "Evaluation of potentials with neural networks in the field of eDiscovery," through which I explored the transformative capabilities of neural networks to enhance eDiscovery processes, showcasing my ability to apply theoretical knowledge to practical challenges.
 
-I am an active member of the [Data Science Club - Data Camp](https://www.linkedin.com/school/datacampinc/), where I have engaged deeply with the data science community, honing my skills and knowledge. Throughout my involvement, I have earned certificates that attest to my proficiency and dedication to continuous learning in the field of data science.
+I am a member of the [Data Science Club - DataCamp](https://dccertified.datacamp.com/) and [LinkedIn - DataCamp](https://www.linkedin.com/school/datacampinc/), where I have engaged deeply with the data science community, honing my skills and knowledge. Throughout my involvement, I have earned certificates that attest to my proficiency and dedication to continuous learning in the field of data science.
 
 Here are a few of the other activities that I love to do!

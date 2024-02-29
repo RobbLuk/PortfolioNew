@@ -12,4 +12,6 @@ showInProjects: true
 
 The analysis provides valuable insights into the revenue spread for Pens and Printers' new office stationery line, focusing on different sales approaches: 'Email,' 'Call,' and 'Email + Call.'
 
-Certification on [Data Camp](https://www.datacamp.com/).
+Certification on [DataCamp](https://www.datacamp.com/).
+
+View the [PowerPoint Presentation](https://1drv.ms/p/s!AlylDCNPs_O-iSb-Qp0UWceHSEaJ?e=ptwyE8).

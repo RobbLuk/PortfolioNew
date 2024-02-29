@@ -54,3 +54,39 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+## -
+
+## -
+
+## -
+
+After Changing files. Build and new version for production (My personal informations)
+
+Generate a full static production build for GitHub pages
+
+Change the folder "docs" to "public"
+
+```sh
+
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+
+npm install -g gatsby-cli
+
+npm run build
+
+```
+
+Check the folder inside "public" to have "index.html"
+
+Change the folder back from "public" to "docs"
+
+```sh
+
+git add .
+
+git commit -m "updated files ..." --no-verify
+
+git push
+
+```
