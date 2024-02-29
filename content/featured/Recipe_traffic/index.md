@@ -13,4 +13,4 @@ In this study, my goal was to figure out which recipes could attract lots of att
 
 Certification on [DataCamp](https://www.datacamp.com/).
 
-View the [Presentation](https://1drv.ms/p/s!AlylDCNPs_O-iSgl1I7aYummp5bo?e=N9nT1s).
+View the [PowerPoint Presentation](https://1drv.ms/p/s!AlylDCNPs_O-iSgl1I7aYummp5bo?e=N9nT1s).
