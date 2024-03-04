@@ -5,7 +5,7 @@ module.exports = {
   siteKeywords: 'Robert Lukas, Lukas, engineer, web developer, javascript, python, R, Data science',
   siteUrl: 'https://robbluk.github.io/PortfolioNew',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'G-251R6W3WR4',
+  googleAnalyticsID: '',
   googleVerification: '',
   name: 'Robert Lukas',
   location: 'Munich, Germany',

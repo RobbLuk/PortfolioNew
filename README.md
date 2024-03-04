@@ -57,7 +57,7 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 
 ## -----------------------------------------------------------------------------------
 
-After Changing files. Build and new version for production (My personal informations)
+After Changing files. Build and new version for production (My personal informations to prevent errors)
 
 Generate a full static production build for GitHub pages
 

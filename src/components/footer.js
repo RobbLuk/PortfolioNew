@@ -59,12 +59,24 @@ const StyledGitHubInfo = styled.div`
     margin-right: 5px;
   }
 `;
+const StyledButton = styled.button`
+  background-color: ${colors.green};
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: ${fontSizes.sm};
+  cursor: pointer;
+  margin: 20px 0;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: ${colors.darkGreen};
+  }
+`;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
-    stars: null,
-    forks: null,
-  });
+  const [githubInfo, setGitHubInfo] = useState({ stars: null, forks: null });
 
   useEffect(() => {
     if (process.env.NODE_ENV !== 'production') {
@@ -74,13 +86,14 @@ const Footer = () => {
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
-        setGitHubInfo({
-          stars: stargazers_count,
-          forks: forks_count,
-        });
+        setGitHubInfo({ stars: stargazers_count, forks: forks_count });
       })
       .catch(e => console.error(e));
   }, []);
+
+  const navigateToImpressum = () => {
+    window.location.href = 'impressum';
+  };
 
   return (
     <StyledContainer>
@@ -106,10 +119,9 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
+            Designed &amp; Built by Brittany Chiang<br />
             Revised by Robert Philipp Lukas
           </div>
-
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
@@ -124,6 +136,7 @@ const Footer = () => {
           )}
         </StyledGitHubLink>
       </StyledMetadata>
+      <StyledButton onClick={navigateToImpressum}>Impressum</StyledButton>
     </StyledContainer>
   );
 };
