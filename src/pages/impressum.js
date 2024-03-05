@@ -1,22 +1,22 @@
 import React from 'react';
 import styled from 'styled-components';
-import { mixins, theme } from '@styles';
+import { mixins } from '@styles';
 
 const StyledContainer = styled.footer`
   ${mixins.flexCenter}; // Reuse your existing flex center mixin for consistency
   flex-direction: column;
-  padding: 15px;
+  padding: 20px;
   text-align: center;
-  background-color: #f8f9fa; // Updated background color, change as needed
-  color: ${theme.colors.text}; // Adjust the text color according to your theme
-  font-family: ${theme.fonts.main}; // Use the main font from your theme
+  background-color: #213555; // Updated background color, change as needed
+  color: #F0F0F0; // Adjust the text color according to your theme
+  font-family: Roboto; // Use the main font from your theme
   height: auto;
-  min-height: 70px;
+  min-height: 80px;
 `;
 
 const StyledImpressumContent = styled.div`
   margin-top: 20px;
-  font-size: ${theme.fontSizes.sm}; // Use a suitable font size from your theme
+  font-size: Roboto; // Use a suitable font size from your theme
   line-height: 1.5; // Standard line height for readability
   max-width: 800px; // Max width for better readability, adjust as needed
   margin: auto; // Center align the content
@@ -32,7 +32,7 @@ const Impressum = () => {
     </p><p> <strong>Vertreten durch: </strong><br>
     Robert Lukas<br>
     </p><p><strong>Kontakt:</strong> <br>
-    Telefon: 0175-7298012<br>
+    Telefon: +49175-7298012<br>
     E-Mail: <a href='mailto:robert_lukas@outlook.de'>robert_lukas@outlook.de</a></br></p><p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
     Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br><br><strong>Haftung für Links</strong><br><br>
     Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<br><br><strong>Urheberrecht</strong><br><br>

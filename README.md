@@ -69,8 +69,6 @@ $env:NODE_OPTIONS="--openssl-legacy-provider"
 
 npm install -g gatsby-cli
 
-$env:NODE_OPTIONS="--openssl-legacy-provider"
-
 npm install
 
 npm run build
