@@ -9,7 +9,7 @@ tech:
 showInProjects: true
 ---
 
-In this study, my goal was to figure out which recipes could attract lots of attention online. We created a basic model using Logistic Regression, and we also made a other model Random Forest - to compare them.
+In this study, my goal was to figure out which recipes could attract lots of attention online. I created a basic model using Logistic Regression, and also made a other model Random Forest - to compare them.
 
 Certification on [DataCamp](https://www.datacamp.com/).
 
