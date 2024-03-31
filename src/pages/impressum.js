@@ -11,7 +11,7 @@ const StyledContainer = styled.footer`
   padding: 20px;
   text-align: center;
   background-color: #213555;
-  color: #E5D283;
+  color: #a8b2d1;
   font-family: 'Roboto', sans-serif; // Ensure font fallbacks for better compatibility
   height: auto;
   min-height: 100px;
