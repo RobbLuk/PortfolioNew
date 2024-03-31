@@ -3,34 +3,50 @@ import styled from 'styled-components';
 import { mixins, theme } from '@styles';
 const { fontSizes, fonts } = theme;
 
+const mobileBreakpoint = '768px'; // Adjust based on your design breakpoints
+
 const StyledContainer = styled.footer`
-  ${mixins.flexCenter}; // Reuse your existing flex center mixin for consistency
+  ${mixins.flexCenter};
   flex-direction: column;
   padding: 20px;
   text-align: center;
-  background-color: #213555; // Updated background color, change as needed
-  color: #E5D283; // Adjust the text color according to your theme
-  font-family: Roboto; // Use the main font from your theme
+  background-color: #213555;
+  color: #E5D283;
+  font-family: 'Roboto', sans-serif; // Ensure font fallbacks for better compatibility
   height: auto;
-  min-height: 80px;
+  min-height: 100px;
+
+  @media (max-width: ${mobileBreakpoint}) {
+    padding: 15px; // Reduce padding on smaller screens
+  }
 `;
 
 const StyledImpressumContent = styled.div`
   margin-top: 20px;
-  line-height: 1.5; // Standard line height for readability
-  max-width: 800px; // Max width for better readability, adjust as needed
-  margin: auto; // Center align the content
-  padding: 0 15px; // Padding on sides for spacing
+  line-height: 1.5;
+  max-width: 800px;
+  margin: auto;
+  padding: 0 15px;
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.s};
-  line-height: 1,5;
+  line-height: 1.5; // Ensure this is a decimal for consistency
+
+  @media (max-width: ${mobileBreakpoint}) {
+    font-size: ${fontSizes.s}; // Adjust font size for mobile devices
+    padding: 0 10px; // Adjust padding
+  }
 `;
 
 const StyledMetadata = styled.div`
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.xl};
   line-height: 1;
+
+  @media (max-width: ${mobileBreakpoint}) {
+    font-size: ${fontSizes.l}; // Adjust font size for readability
+  }
 `;
+
 const navigateToIndex = () => {
   window.location.href = '/';
 };
@@ -60,22 +76,16 @@ function Impressum() {
 
   return (
     <StyledContainer>
-      {/* Other impressum content */}
-      <br></br>
-      <br></br>
       <StyledMetadata 
         tabindex="-1" target="_blank" onClick={navigateToIndex}>
         &#8594; Back to Robert Philipp Lukas Portfolio &#8592;
       </StyledMetadata>
-      <StyledImpressumContent dangerouslySetInnerHTML={impressumHTML}/>
-      <br></br>
-      <br></br>
+      <StyledImpressumContent dangerouslySetInnerHTML={impressumHTML} />
       <StyledMetadata 
         tabindex="-1" target="_blank" onClick={navigateToIndex}>
         &#8594; Back to Robert Philipp Lukas Portfolio &#8592;
       </StyledMetadata>
-      <br></br>
-      <br></br><span>&#169;</span>Robert Philipp Lukas, 2024
+      <br /><span>&#169;</span>Robert Philipp Lukas, 2024
     </StyledContainer>
   );
 }
