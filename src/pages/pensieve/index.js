@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import { Helmet } from 'react-helmet';
@@ -123,23 +124,14 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Robert Philipp Lukas</title>
+        <title>Impressum und Datenschutzerklärung </title>
         <link rel="canonical" href="https://github.com/robbluk" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">Pensieve</h1>
-          <p className="subtitle">
-            <a
-              href="https://www.wizardingworld.com/writing-by-jk-rowling/pensieve"
-              target="_blank"
-              rel="noopener noreferrer">
-              a collection of memories
-            </a>
-          </p>
+          <h1 className="big-title">Impressum und Datenschutzerklärung</h1>
         </header>
-
         <StyledGrid>
           <div className="posts">
             {posts.length > 0 &&
@@ -165,9 +157,9 @@ const PensievePage = ({ location, data }) => {
                       <footer>
                         <StyledDate>{`${d.toLocaleDateString()}`}</StyledDate>
                         <StyledTags>
-                          {tags.map((tag, i) => (
+                          {tags?.map((tag, i) => (
                             <li key={i}>
-                              <Link to={`/pensieve/tags/${kebabCase(tag)}/`}>#{tag}</Link>
+                              <Link to={`/impressum/tags/${kebabCase(tag)}/`}>#{tag}</Link>
                             </li>
                           ))}
                         </StyledTags>
