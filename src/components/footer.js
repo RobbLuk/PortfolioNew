@@ -59,23 +59,7 @@ const StyledGitHubInfo = styled.div`
     margin-right: 5px;
   }
 `;
-const StyledButton = styled.button`
-  background-color: ${colors.green};
-  color: white;
-  border: none;
-  border-radius: 4px;
-  padding: 10px 20px;
-  font-size: ${fontSizes.sm};
-  cursor: pointer;
-  margin: 20px 0;
-  transition: background-color 0.3s;
-
-  &:hover {
-    background-color: ${colors.darkGreen};
-  }
-`;
-
-const Footer = () => {
+function Footer() {
   const [githubInfo, setGitHubInfo] = useState({ stars: null, forks: null });
 
   useEffect(() => {
@@ -136,10 +120,14 @@ const Footer = () => {
           )}
         </StyledGitHubLink>
       </StyledMetadata>
-      <StyledButton onClick={navigateToImpressum}>Impressum</StyledButton>
+      <br></br><br></br>
+      <StyledMetadata 
+        tabindex="-1" target="_blank" onClick={navigateToImpressum}>
+        <span>&#169;</span> Robert Philipp Lukas, 2024<br></br>Impressum und Datenschutzerklärung
+      </StyledMetadata>
     </StyledContainer>
   );
-};
+}
 
 Footer.propTypes = {
   githubInfo: PropTypes.object,

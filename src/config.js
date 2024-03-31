@@ -7,7 +7,7 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
-  name: 'Robert Lukas',
+  name: 'Robert Philipp Lukas',
   location: 'Munich, Germany',
   email: 'robert_lukas@outlook.de',
   github: 'https://github.com/RobbLuk',
