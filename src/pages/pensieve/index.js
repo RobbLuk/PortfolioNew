@@ -124,13 +124,13 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Impressum und Datenschutzerklärung </title>
+        <title>Pensive </title>
         <link rel="canonical" href="https://github.com/robbluk" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">Impressum und Datenschutzerklärung</h1>
+          <h1 className="big-title">Pensiveg</h1>
         </header>
         <StyledGrid>
           <div className="posts">
@@ -159,7 +159,7 @@ const PensievePage = ({ location, data }) => {
                         <StyledTags>
                           {tags?.map((tag, i) => (
                             <li key={i}>
-                              <Link to={`/impressum/tags/${kebabCase(tag)}/`}>#{tag}</Link>
+                              <Link to={`/pensieve/tags/${kebabCase(tag)}/`}>#{tag}</Link>
                             </li>
                           ))}
                         </StyledTags>

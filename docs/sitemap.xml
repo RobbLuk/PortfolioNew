@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/Cover-Letter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/Interview-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/Spiritual-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/Summary-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/Work-experience</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/Crafting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/AI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/Chess</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/Power-Yoga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/Sports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/impressum/Datenschutzerklärung</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/impressum/impressum</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/markdown-playground</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/pensieve/markdown-playground</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/pensieve/wordpress-publish-error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/pensieve/tags/testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/pensieve/tags/word-press/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/activity/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/impressum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/impressum/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://robbluk.github.io/PortfolioNew/impressum12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/impressumTemplate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://robbluk.github.io/PortfolioNew/interview/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/pensieve/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://robbluk.github.io/PortfolioNew/pensieve/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
