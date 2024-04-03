@@ -1,7 +1,7 @@
 ---
 title: About myself
 description: Can you tell us a little about yourself?
-date: '2024-04-01'
+date: '2024-03-31'
 draft: false
 slug: '/interview/Interview-data'
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Power-Yoga
 description: Sanctuary for mental clarity
-date: '2024-04-01'
+date: '2024-03-31'
 draft: false
 slug: '/activity/Power-Yoga'
 tags:

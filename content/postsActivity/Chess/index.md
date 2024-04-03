@@ -1,7 +1,7 @@
 ---
 title: Chess
 description: Chess is more than a game
-date: '2024-04-01'
+date: '2024-03-31'
 draft: false
 slug: '/activity/Chess'
 tags:

@@ -1,7 +1,7 @@
 ---
-title: About attracts me in field
+title: About in this field
 description: Where do you see yourself in five years?
-date: '2024-04-01'
+date: '2024-03-31'
 draft: false
 slug: '/interview/Work-experience'
 tags:
