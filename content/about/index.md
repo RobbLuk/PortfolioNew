@@ -17,6 +17,12 @@ I earned my Bachelor's degree in Engineering and Management, with a specializati
 
 I am a member of the [Data Science Club - DataCamp](https://dccertified.datacamp.com/) and [LinkedIn - DataCamp](https://www.linkedin.com/school/datacampinc/), where I have engaged deeply with the data science community, honing my skills and knowledge. Throughout my involvement, I have earned certificates that attest to my proficiency and dedication to continuous learning in the field of data science.
 
-Here are a few of the other activities that I love to do!
+Here are a few more things about me!
 
-Or click here [&#8594; About Me](/interview/Summary-data) [&#8594; Interview](/interview) [&#8594; Cover Letter](/interview/Cover-Letter) [&#8594; Activity](/activity)
+[&#8594; About Me](/interview/Summary-data)
+
+[&#8594; About Interview with me](/interview)
+
+[&#8594; About my Cover Letter](/interview/Cover-Letter)
+
+[&#8594; About Activity](/activity)
