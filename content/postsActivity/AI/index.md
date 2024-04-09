@@ -9,4 +9,4 @@ tags:
 
 ![AI](/AI.png)
 
-Fascinated by the endless possibilities of Artificial Intelligence, I dedicate myself to exploring how AI can transform industries, enhance creativity, and solve complex problems. My journey includes studying machine learning algorithms, neural networks, and AI's ethical implications to harness its potential responsibly.
+"I am fascinated by the limitless power of artificial intelligence. It inspires me to reshape my world and positively impact the boundaries of what is possible, both professionally and creatively. My approach is practical, guided by a desire to not only understand the technical nuances of AI, but also to think about its wider impact on our society. AI is more than just an activity for me - it is an area in which I am creatively and thoughtfully shaping my new self."

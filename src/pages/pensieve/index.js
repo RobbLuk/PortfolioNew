@@ -130,7 +130,7 @@ const PensievePage = ({ location, data }) => {
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">Pensiveg</h1>
+          <h1 className="big-title">Pensive</h1>
         </header>
         <StyledGrid>
           <div className="posts">
