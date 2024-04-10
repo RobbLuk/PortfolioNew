@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Portfolio Website'
-cover: 'PortfolioWebsiteFirstTry.PNG'
+cover: 'portrait.png'
 github: 'https://robbluk.github.io/PortfolioRL/'
 external: 'https://robbluk.github.io/PortfolioRL/'
 tech:

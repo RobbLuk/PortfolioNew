@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Recipe Side Traffic'
-cover: 'food-1898194_1280.png'
+cover: 'cook.png'
 github: 'https://robbluk.github.io/recipe_side_traffic/'
 external: 'https://robbluk.github.io/recipe_side_traffic/'
 tech:
