@@ -7,7 +7,7 @@ slug: '/interview/Cover-Letter'
 tags:
 ---
 
-![Interview](/Cover_Letter.png)
+![Cover Letter](/Cover_Letter2.png)
 
 My background in data analysis, machine learning, and programming languages like Python and SQL has been solidified through self-study. My degree in Industrial Engineering, with a specialization in Information Technology, coupled with a professional certification in data science, has not only deepened my theoretical understanding but also enhanced it with hands-on project experience.
 

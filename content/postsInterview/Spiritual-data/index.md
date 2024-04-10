@@ -9,7 +9,7 @@ tags:
 
 ## Interview
 
-![Interview](/Interview.png)
+![Interview](/Tranquil.png)
 
 ### Interviewer: "If you had to choose a spirit animal, what would it be?"
 

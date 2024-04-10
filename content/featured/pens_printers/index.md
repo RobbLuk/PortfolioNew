@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Data Analysing Pens and Printers'
-cover: './stock-1863880_1280.png'
+cover: 'Stock.png'
 github: 'https://robbluk.github.io/pens_printers/'
 external: 'https://robbluk.github.io/pens_printers/'
 tech:

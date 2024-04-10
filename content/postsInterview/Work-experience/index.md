@@ -9,7 +9,7 @@ tags:
 
 ## Interview
 
-![Interview](/Interview.png)
+![Interview](/Interview1.png)
 
 ### Interviewer: "What attracts you to this area?"
 

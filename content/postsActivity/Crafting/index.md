@@ -7,7 +7,7 @@ slug: '/activity/Crafting'
 tags:
 ---
 
-![Crafting](/Crafting.png)
+![Crafting](/Crafting3.png)
 
 For me, crafting with electricity is a way to connect with the ever-evolving field of technology. My approach is rooted in a comprehensive mastery of electrical principles, coupled with a visionary outlook. This dual perspective allows me to create systems that are not only effective but also advance the field. Whether it's developing smart technology or enhancing energy systems, the goal is always to push boundaries and inspire progress.
 

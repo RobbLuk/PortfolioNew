@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Dancing Party'
-cover: 'concert-2527495_1280.png'
+cover: 'Dance.png'
 github: 'https://robbluk.github.io/dancing_party/'
 external: 'https://robbluk.github.io/dancing_party/'
 tech:

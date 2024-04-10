@@ -9,7 +9,7 @@ tags:
 
 ## About Myself
 
-![Interview](/Interview.png)
+![Interview](/On_the_way.png)
 
 My journey into data science didn't follow the usual path. Instead of going straight from high school to university, I carved my own path through a program that valued my work experience just as much as any academic grade. This was my stepping stone into the world of academia, setting the stage for everything that followed.
 

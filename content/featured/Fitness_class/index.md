@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Fitness Class'
-cover: 'weightlifting-2427461_640.png'
+cover: 'Sports.png'
 github: 'https://robbluk.github.io/fitness_class'
 external: 'https://robbluk.github.io/fitness_class'
 tech:
