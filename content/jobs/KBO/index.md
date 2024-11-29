@@ -1,9 +1,9 @@
 ---
-date: '2022-03-16'
-title: 'Data Analyst Team Controlling'
-company: 'KBO-Isar-Amper-klinikum'
-location: Haar
-range: 'July 2024 - March 2025'
+date: '2024-07-15'
+title: 'Data Analyst inside Team Controlling & Statistic'
+company: 'Kbo-Isar-Amper-klinikum'
+location: 'Haar'
+range: 'Jul 2024 - Mar 2025'
 url: 'https://kbo-iak.de/'
 ---
 
