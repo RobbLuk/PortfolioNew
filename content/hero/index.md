@@ -5,6 +5,8 @@ subtitle: 'Explore My Journey'
 buttonText: 'Get In Touch'
 ---
 
+**I Want To Work With Great People, Get Better And Grow.**
+
 I am a data science enthusiast with a solid mechanical engineering degree and an ardent passion for analytics. I have discovered the exciting intersection between technology and innovation that drives my drive for continuous learning and professional growth.
 
 Over the course of my career, I've tackled the intricate challenges of financial advisory analytics at Deloitte and explored the possibilities of machine learning and artificial intelligence at DataCamp. Every step of my journey has been about connecting complex data with real-world solutions that make a difference.

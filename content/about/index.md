@@ -23,10 +23,10 @@ Join me as we walk the complex and exciting paths of data science together and u
 
 Here are a few more things about me!
 
-[&#8594; About Me](/interview/Summary-data)
+[&#10565; About Me](/interview/Summary-data)
 
-[&#8594; About Interview with me](/interview)
+[&#10562; About Interview with me](/interview)
 
-[&#8594; About my Cover Letter](/interview/Cover-Letter)
+[&#10557; About my Cover Letter](/interview/Cover-Letter)
 
-[&#8594; About Activity](/activity)
+[&#8693; About Activity](/activity)

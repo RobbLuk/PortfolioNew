@@ -1,7 +1,5 @@
 # TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
-
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
@@ -56,6 +54,78 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
 ## -----------------------------------------------------------------------------------
+
+Palette 1: Classic and Clean
+
+Background: #FFFFFF (White)
+Primary Text: #333333 (Dark Grey)
+Secondary Text: #555555 (Medium Grey)
+Accent: #5C80BC (Soft Blue)
+Buttons/Hover: #B1A296 (Warm Beige)
+
+Palette 2: Modern Minimalist
+
+Background: #F9F9F9 (Off-White)
+Primary Text: #2E2E2E (Charcoal Grey)
+Secondary Text: #707070 (Slate Grey)
+Accent: #DAA49A (Salmon Pink)
+Buttons/Hover: #C5E0DC (Mint Green)
+Palette 3: Professional and Polished
+
+Background: #E8E8E8 (Light Grey)
+Primary Text: #1C1C1C (Jet Black)
+Secondary Text: #4A4A4A (Dark Grey)
+Accent: #A9BCD0 (Steel Blue)
+Buttons/Hover: #ACC7B4 (Sage Green)
+Palette 4: Warm and Welcoming
+
+Background: #FFF8E8 (Ivory)
+Primary Text: #303030 (Dark Grey)
+Secondary Text: #626262 (Medium Grey)
+Accent: #F4A261 (Sandy Brown)
+Buttons/Hover: #2A9D8F (Teal)
+Palette 5: Cool and Creative
+
+Background: #F4F7FA (Alabaster)
+Primary Text: #2F4858 (Gunmetal Blue)
+Secondary Text: #78909C (Blue Grey)
+Accent: #FF6B6B (Bittersweet)
+Buttons/Hover: #FFE66D (Mustard)
+Palette 6: Bold and Energetic
+
+Background: #FAFAFA (White Smoke)
+Primary Text: #272727 (Off Black)
+Secondary Text: #484848 (Asphalt)
+Accent: #FF9F1C (Vivid Orange)
+Buttons/Hover: #E71D36 (Red Orange)
+Palette 7: Fresh and Natural
+
+Background: #F7FFF7 (Mint Cream)
+Primary Text: #334E68 (Indigo Dye)
+Secondary Text: #2C6975 (Sea Green)
+Accent: #FFD166 (Yellow Orange)
+Buttons/Hover: #06D6A0 (Aquamarine)
+Palette 8: Sophisticated and Luxurious
+
+Background: #FBF5F3 (Baby Pink)
+Primary Text: #493843 (Eggplant)
+Secondary Text: #736372 (Old Lavender)
+Accent: #E4A687 (Dusty Pink)
+Buttons/Hover: #9D8189 (Old Rose)
+Palette 9: Earthy and Organic
+
+Background: #FAF4F2 (Linen)
+Primary Text: #505A5B (Cadet)
+Secondary Text: #688B8A (Feldgrau)
+Accent: #A3C4BC (Morning Blue)
+Buttons/Hover: #D0C9C0 (Silver Pink)
+Palette 10: Dynamic and Digital
+
+Background: #EFEFEF (White Smoke)
+Primary Text: #262626 (Raisin Black)
+Secondary Text: #6E6E6E (Granite Gray)
+Accent: #4ECDC4 (Medium Turquoise)
+Buttons/Hover: #FF6B6B (Soft Red)
 
 After Changing files. Build and new version for production (My personal informations to prevent errors)
 
