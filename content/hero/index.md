@@ -7,8 +7,8 @@ buttonText: 'Get In Touch'
 
 **I Want To Work With Great People, Get Better And Grow.**
 
-I am a data science enthusiast with a solid mechanical engineering degree and an ardent passion for analytics. I have discovered the exciting intersection between technology and innovation that drives my drive for continuous learning and professional growth.
+Ich bin ein leidenschaftlicher Datenliebhaber mit einer tiefen Begeisterung für Analysen und Problemlösungen. Die Kombination aus moderner Technologie und der Arbeit mit umfangreichen Datensätzen inspiriert mich kontinuierlich dazu, mein Wissen und meine Fähigkeiten in diesem Bereich auszubauen.
 
-Over the course of my career, I've tackled the intricate challenges of financial advisory analytics at Deloitte and explored the possibilities of machine learning and artificial intelligence at DataCamp. Every step of my journey has been about connecting complex data with real-world solutions that make a difference.
+Ich blühe auf, wenn es darum geht, komplexe Herausforderungen zu meistern – sei es durch tiefgehende Analysen oder die innovativen Möglichkeiten, die künstliche Intelligenz bietet. Mein Ziel ist es stets, aus Daten wertvolle Erkenntnisse zu gewinnen und diese in praxisorientierte Lösungen zu verwandeln, die echten Mehrwert schaffen.
 
-Let's dive into the vast and exciting realms of data science and AI together. Join me as we explore cutting-edge technologies, gain new insights and push the boundaries of what's possible. Are you ready to turn data into action? Let's go!
+Ich freue mich, mehr über meinen Weg und meine Erfahrungen zu erzählen. Let's go!

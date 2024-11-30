@@ -7,9 +7,10 @@ range: 'Jul 2024 - Mar 2025'
 url: 'https://kbo-iak.de/'
 ---
 
-- Data Management and Reporting: Collected, cleaned, and analyzed patient and operational data to support data-driven decision-making in the hospital. Designed and maintained databases for efficient data storage, retrieval, and reporting.
-- System Migration: Led the migration of legacy systems to modern database and analytics platforms, ensuring seamless data transfer, improved accessibility, and integration with new technologies.
-- Operational Insights: Conducted in-depth data analyses to optimize resource allocation, streamline hospital processes, and improve patient care outcomes. Identified trends and provided actionable recommendations to enhance operational efficiency.
-- Visualization and Communication: Developed dynamic dashboards and comprehensive reports using tools like Power BI and Excel to present complex data insights clearly to medical and administrative teams, enabling strategic decision-making.
-- Compliance and Data Security: Ensured data accuracy and confidentiality, maintaining full compliance with healthcare data standards and regulatory requirements.
-- Collaboration and KPI Optimization: Partnered with medical and administrative staff to define and refine key performance indicators (KPIs), delivering tailored data solutions to improve workflows and achieve organizational objectives.
+- **Datenmanagement und Berichterstattung:** Sammlung, Bereinigung und Analyse von Patienten- und Betriebsdaten zur Unterstützung datengesteuerter Entscheidungen. Entwicklung und Pflege effizienter Datenbanken für Speicherung, Abfrage und Berichterstattung.  
+- **System-Migration:** Leitung der Migration von Altsystemen auf moderne Plattformen mit nahtloser Datenübertragung, verbesserter Zugänglichkeit und technologischer Integration.  
+- **Betriebliche Einblicke:** Durchführung von Datenanalysen zur Optimierung von Ressourcen, Prozessen und Patientenergebnissen. Ableitung von Trends und umsetzbaren Empfehlungen zur Effizienzsteigerung.  
+- **Visualisierung und Kommunikation:** Erstellung dynamischer Dashboards und Berichte mit Tools wie Power BI und Excel zur klaren Darstellung komplexer Daten für medizinische und administrative Teams.  
+- **Compliance und Datensicherheit:** Sicherstellung der Datenintegrität und Einhaltung gesetzlicher Datenschutzstandards im Gesundheitswesen.  
+- **Zusammenarbeit und KPI-Optimierung:** Definition und Verfeinerung von KPIs in Zusammenarbeit mit Teams, Bereitstellung datenbasierter Lösungen zur Verbesserung von Prozessen und Zielerreichung.
+

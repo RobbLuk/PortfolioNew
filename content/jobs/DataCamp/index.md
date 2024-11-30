@@ -7,8 +7,8 @@ range: 'Mar 2022 - Jan 2024'
 url: 'https://datacamp.com'
 ---
 
-- Data Analysis, Machine Learning, Python, R, Power BI, 1350h+ theoretical & practical experience on real world Projects
-- Degree: Data Scientist Professional, Data Analyst Professional & Data Engineer Certificate
+- Datenanalyse, Maschinelles Lernen, Python, R, Power BI, theoretische und praktische Erfahrung in realen Projekten
+- Abschluss: Data Scientist Professional, Data Analyst Professional & Data Engineer Zertifikat
 - View [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0010829693051) Obtained: 12 June 2023
 - View [Data Analyst Professional Certificate](https://www.datacamp.com/certificate/DA0021517864005) Obtained: 10 September 2023
 - View [Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0019687890345) Obtained: 26 July 2023

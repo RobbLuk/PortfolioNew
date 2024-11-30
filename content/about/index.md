@@ -9,19 +9,29 @@ skills:
   - AI
 ---
 
-Servus! I'm Robert Lukas, a 36-year-old data science enthusiast from [Munich](https://stadt.muenchen.de/rathaus.html), Germany.
+**Hello!**
+Schön, dich hier zu treffen. Möchte gerne mehr von mir erzählen.
 
-I bring over a decade of experience as a mechanical engineer and more recent adventures in data science and financial analytics.
+Ich heiße,
+ **Robert Philipp Lukas**, ein 37-jähriger Datenenthusiast aus [München](https://stadt.muenchen.de/rathaus.html), Deutschland.
 
-I have a degree in Engineering and Management with a focus on Information Technology from Munich University of Applied Sciences [Hochschule München](https://www.hm.edu/). My bachelor thesis was on "Evaluation of potentials of neural networks in the field of eDiscovery", which further strengthened my interest in data science.
+In meiner beruflichen Laufbahn konnte ich vielfältige Erfahrungen sammeln:
+Mit über einem Jahrzehnt Erfahrung als Techniker sowie in den Bereichen Data Science und Financial Analytics habe ich eine solide Basis, die technisches Wissen mit datengetriebener Entscheidungsfindung kombiniert. Mit meinem Abschluss in **Ingenieurwesen und Management** mit Schwerpunkt Informationstechnologie an der Hochschule München (https://www.hm.edu/) hat mein Interesse in Data nur noch verstärkt. Meine Bachelorarbeit drehte sich um die „Evaluierung von Potenzialen neuronaler Netze im Bereich eDiscovery“ – ein Projekt, das meine Leidenschaft für Data Science weiter gesteigert hat.
+Bei **Deloitte** habe ich mich intensiv mit Big Data im Bereich eDiscovery beschäftigt, während ich bei der **Innoscripta AG** Forschungs- und Innovationsprojekte arbeitete. Um mein Wissen weiter auszubauen, habe ich mich zusätzlich über Plattformen wie **Data Camp** [Data Science Club - DataCamp] (https://datacamp.com/) weitergebildet und mir vertiefte Kenntnisse in der Datenwissenschaft, Datenvisualisierung und Datenanalyse angeeignet. Im Team Controlling & Statistik bei **Kbo-Isar-Amper-Klinikum** konnte ich wertvolle praktische Erfahrungen sammeln, neue Anwendungen entwickeln und mich den täglichen Herausforderungen der Datenanalyse stellen. Dabei habe ich nicht nur meine technischen Fähigkeiten weiterentwickelt, sondern auch ein tiefes Verständnis für die datenbasierte Entscheidungsfindung im Gesundheitswesen erlangt.
 
-My professional career includes key roles at Deloitte, where I worked on big data in eDiscovery, and Innoscripta AG, where I conducted research and innovation projects. Most recently, I developed machine learning models at DataCamp to improve the user experience on an online cooking platform and increase user satisfaction through data-driven insights.
+Ich bin besonders stark in:
 
-Outside of my professional life, I am deeply involved in continuous learning and actively participate in data science communities on [Data Science Club - DataCamp](https://dccertified.datacamp.com/) and [LinkedIn - DataCamp](https://www.linkedin.com/school/datacampinc/). I also enjoy sports, practicing yoga and honing my strategic skills at chess.
+**Datenmanagement:** Erfassung, Bereinigung und Analyse großer und komplexer Datenmengen zur Unterstützung strategischer Entscheidungen.
+**Datenbankentwicklung und Migration:** Entwicklung moderner Datenbanksysteme sowie reibungslose Migration und Integration von Altsystemen in leistungsfähigere Plattformen.
+**Datenvisualisierung:** Erstellung interaktiver Dashboards und Berichte mit Tools wie Power BI und Excel, um komplexe Daten anschaulich und leicht verständlich darzustellen.
+**Prozessoptimierung:** Identifikation von Verbesserungspotenzialen und Entwicklung datenbasierter Lösungen zur Effizienzsteigerung in Geschäftsprozessen.
+**Teamarbeit:** Enge Zusammenarbeit mit interdisziplinären Teams, um gemeinsam komplexe Projekte erfolgreich zu realisieren und nachhaltige Ergebnisse zu erzielen.
+**Problemlösung:** Schnelles Erkennen und effektives Lösen von Herausforderungen in dynamischen Umgebungen.
+Meine Kombination aus technischem Know-how, analytischer Stärke und Teamfähigkeit ermöglicht es mir, datengetriebene Projekte erfolgreich umzusetzen und nachhaltige Mehrwerte für Organisationen zu schaffen.
 
-Join me as we walk the complex and exciting paths of data science together and use technology to drive meaningful innovation and better decisions. Let's explore, learn and grow together in this dynamic field!
+Neben der Arbeit bin ich gleichermaßen Neugierieg und sehr Aktiv. Ich lerne kontinuierlich dazu, mache Sport, praktiziere zum Ausgleich Yoga und unterhalte mich mit Schach.
 
-Here are a few more things about me!
+Hier sind noch ein paar weitere Dinge über mich!
 
 [&#10565; About Me](/interview/Summary-data)
 

@@ -9,4 +9,4 @@ tags:
 
 ![AI](/KI1.png)
 
-"I am fascinated by the limitless power of artificial intelligence. It inspires me to reshape my world and positively impact the boundaries of what is possible, both professionally and creatively. My approach is practical, guided by a desire to not only understand the technical nuances of AI, but also to think about its wider impact on our society. AI is more than just an activity for me - it is an area in which I am creatively and thoughtfully shaping my new self."
+„Ich bin fasziniert von der grenzenlosen Macht der künstlichen Intelligenz. Sie inspiriert mich dazu, meine Welt neu zu gestalten und die Grenzen des Möglichen positiv zu beeinflussen, sowohl beruflich als auch kreativ. Mein Ansatz ist praktisch, geleitet von dem Wunsch, nicht nur die technischen Nuancen der KI zu verstehen, sondern auch über ihre weiteren Auswirkungen auf unsere Gesellschaft nachzudenken. KI ist für mich mehr als nur eine Tätigkeit - es ist ein Bereich, in dem ich mein neues Selbst kreativ und überlegt gestalte.“
