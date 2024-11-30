@@ -11,7 +11,7 @@ tags:
 
 ![Interview](/On_the_way.png)
 
-Mein Weg in die Datenwissenschaft verlief nicht auf dem üblichen Weg. Anstatt direkt von der High School an die Universität zu gehen, habe ich mir meinen eigenen Weg durch ein Programm gebahnt, das meine Arbeitserfahrung genauso wertschätzt wie jede akademische Note. Dies war mein Sprungbrett in die akademische Welt und legte den Grundstein für alles, was danach kam.
+Mein Weg in die Datenwissenschaft verlief nicht auf dem üblichen Weg. Anstatt direkt nach dem Abi an die Universität zu gehen, habe ich mir meinen eigenen Weg durch ein Programm gebahnt, das meine Arbeitserfahrung genauso wertschätzt wie jede akademische Note. Dies war mein Sprungbrett in die akademische Welt und legte den Grundstein für alles, was danach kam.
 
 An der Universität studierte ich Wirtschaftsingenieurwesen, aber der eigentliche Wendepunkt war das, was außerhalb des Klassenzimmers passierte. Angetrieben von einer Mischung aus Neugierde und Entschlossenheit habe ich meine Freizeit damit verbracht, mir Data Science beizubringen. Mit Hilfe von Online-Kursen, zahllosen Artikeln und praktischen Projekten stand ich vor einer ganzen Reihe von Herausforderungen. Doch jedes gelöste Problem und jedes abgeschlossene Projekt fühlte sich wie ein Sieg an, der meine Leidenschaft für dieses Fachgebiet noch mehr anheizte.
 
